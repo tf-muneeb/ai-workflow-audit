@@ -44,7 +44,7 @@
 ## 🖼️ Verification Screenshots
 
 ### 1. Claude Project Configuration
-![Claude Project Setup](./Claude_Project.png)
+![Claude Project Setup](./claude.PNG)
 
 ### 2. Anthropic Academy Completion
-![Anthropic Academy](./Anthropic_Academy.png)
+![Anthropic Academy](./anthropic.PNG)
